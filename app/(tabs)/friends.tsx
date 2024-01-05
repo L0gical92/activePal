@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const index = () => {
+const friends = () => {
   return (
     <View>
-      <Text>index</Text>
+      <Text>friends</Text>
     </View>
   );
 };
 
-export default index;
+export default friends;

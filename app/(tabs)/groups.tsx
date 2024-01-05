@@ -1,12 +1,12 @@
 import { View, Text } from "react-native";
 import React from "react";
 
-const index = () => {
+const groups = () => {
   return (
     <View>
-      <Text>index</Text>
+      <Text>groups</Text>
     </View>
   );
 };
 
-export default index;
+export default groups;
